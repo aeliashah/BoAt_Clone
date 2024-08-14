@@ -1,0 +1,153 @@
+.mynavbar{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+.logoimg{
+    width: 70px;
+}
+.homeimg{
+    width:100%;
+}
+.bagicon{
+    color: black;
+    margin: 5px;
+}
+.mainbox{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.mywar{
+    font-size: 100px;
+}
+.brandtext{
+    font-size: 20px;
+    font-weight: 500;
+}
+.textt{
+    width: 200px;
+}
+
+.text2{
+    font-size: 30px;
+    font-weight: 500;
+}
+.text3{
+    font-size: 30px;
+    font-weight: 500;
+}
+.kiara{
+    width: 200px;
+}
+.heading{
+    border:400px;
+    margin-bottom: 0;
+    padding-left: 120px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+}
+
+.box {
+    width: 185px;
+    height: 145px;
+}
+
+.boximg {
+    width: 160px;
+    position: relative;
+    top: 70px;
+}
+
+
+.container > div:nth-child(1) .box {
+    background-color: #6d6a6a;
+}
+
+.container > div:nth-child(2) .box {
+    background-color: rgb(230, 164, 175);
+}
+
+.container > div:nth-child(3) .box {
+    background-color: rgb(174, 195, 230);
+    
+}
+.headbox{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 0;
+}
+.colordiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+}
+.colordiv>div{
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+}
+.colordiv>div:nth-child(1){
+    background-color: #6d6a6a;
+}
+.colordiv>div:nth-child(2){
+    background-color: rgb(230, 164, 175);
+}
+.colordiv>div:nth-child(3){
+    background-color: rgb(174, 195, 230);
+}
+
+
+.heading2{
+    border:400px;
+    margin-bottom: 0;
+    padding-left: 120px;
+    text-decoration-color: hsl(0, 0%, 6%);
+}
+
+.footpara{
+    text-align: center;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.adcards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    margin: 40px;
+}
+.adcard{
+    width: 350px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.adcard h5{
+    font-size: 20px;
+    font-weight: 500;
+}
+.adcard p{
+    font-size: 15px;
+    font-weight: 500;
+}
+.footercontainer{
+    margin: 20px;
+}
+
+.paymenticon{
+    font-size: 60px;
+}
+.mylogo {
+    font-size: 20px;
+
+}
